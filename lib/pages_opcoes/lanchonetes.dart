@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Lanchonetes extends StatelessWidget {
-  const Lanchonetes({super.key});
+class LanchonetesPage extends StatelessWidget {
+  const LanchonetesPage({super.key});
 
   @override
   Widget build(BuildContext context) {
