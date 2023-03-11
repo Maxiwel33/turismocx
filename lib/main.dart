@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         routes: {
           '/': (context) => const LoginSenha(),
           '/principal': (context) => const MenuPage(),
-          '/lanchonete': (context) => const Lanchonetes(),
+          '/lanchonete': (context) => const LanchonetesPage(),
           '/quemsomos': (context) => const QuemSomos(),
         }
 
